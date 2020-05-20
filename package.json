@@ -1,7 +1,7 @@
 {
   "name": "melissa-api",
   "description": "Promise-driven accessor for the Melissa API",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "api",
     "data",
@@ -19,8 +19,8 @@
   },
   "main": "./lib/melissa",
   "dependencies": {
-    "bluebird": "^3.5.3",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.2"
+    "bluebird": "^3.7.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
   }
 }
