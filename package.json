@@ -1,11 +1,12 @@
 {
   "name": "melissa-api",
   "description": "Promise-driven accessor for the Melissa API",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "keywords": [
     "api",
     "data",
-    "geoip"
+    "geoip",
+    "melissa"
   ],
   "homepage": "https://github.com/osufpp/melissa-api",
   "bugs": {
@@ -19,6 +20,7 @@
   },
   "main": "./lib/melissa",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^1.6.2",
+    "lodash": "^4.17.21"
   }
 }
